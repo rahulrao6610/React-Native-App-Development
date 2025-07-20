@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799236650623",
+    "project_id": "andorid-app-4a1b8",
+    "storage_bucket": "andorid-app-4a1b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799236650623:android:bb973352e5a114556db14a",
+        "android_client_info": {
+          "package_name": "com.rnnotificationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnCzFCiZWtQFd0_D4_GbgbrQz-oHIp3hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
